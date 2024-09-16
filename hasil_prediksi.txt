@@ -1,0 +1,3 @@
+Teks Email: NICE TO KNOW YOU
+Teks setelah preprocessing: nice to know you
+Hasil prediksi: Email Ham (Normal)
